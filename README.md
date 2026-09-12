@@ -1,3 +1,10 @@
+> **Архив. Форк не развивается.**
+> Актуальная переписанная интеграция живёт отдельным проектом:
+> https://github.com/badigit/floureon-homeassistant
+> Там config_flow, coordinator, тесты и поддержка HACS.
+> Этот форк — копия апстрима `algirdasc/hass-floureon` без собственных коммитов,
+> оставлен только как след истории.
+
 # Your support
 This open-source project is developed in my free time. 
 Your donation would help me dedicate more time and resources to improve project, add new features, fix bugs, 
